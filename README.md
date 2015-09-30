@@ -74,6 +74,17 @@ These will include the particular repo configuration, that tells git to unzip th
 
 ##History
 
+###Sunrise v0.3 (In development)
+
+####Target Specs
+* More rigid Z-Axis with V-Slot Beam
+ * Also, better use of extrusion profiles. Maybe use prebuild unions.
+* Build environment enclosure.
+ * Must be compatible with fast vat swapping. (Vat may go out by pulling from it, rather than lifting it)
+ * Zcarriage will access the environment through a bellow
+ * Will have a door
+* Bellow for projector. UV light must not get out of the bellow.
+
 ###Sunrise v0.2
 
 <img src="./doc/README/Sunrise02.png" height="285" align="center"><img src="./doc/README/Sunrise02real.jpg" height="285" align="center"><img src="./doc/README/Sun02Sappho.jpg" height="285" align="center">
