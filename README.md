@@ -77,8 +77,13 @@ These will include the particular repo configuration, that tells git to unzip th
 ###Sunrise v0.3 (In development)
 
 ####Target Specs
-* More rigid Z-Axis with V-Slot Beam
- * Also, better use of extrusion profiles. Maybe use prebuild unions.
+
+#####Primary
+* Easier assembly and printing.
+* Use just one size of profiles.
+* Improve ZAxis performance by adding weight to the carriage.
+
+#####Secondary
 * Build environment enclosure.
  * Must be compatible with fast vat swapping. (Vat may go out by pulling from it, rather than lifting it)
  * Zcarriage will access the environment through a bellow
